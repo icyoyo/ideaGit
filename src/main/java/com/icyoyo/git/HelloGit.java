@@ -16,5 +16,6 @@ public class HelloGit {
         System.out.println("远程库更新");
         System.out.println("推送到码云");
         System.out.println("码云测试");
+        System.out.println("取消认证");
     }
 }
