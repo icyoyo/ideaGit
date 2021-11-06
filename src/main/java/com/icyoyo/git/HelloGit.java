@@ -14,8 +14,6 @@ public class HelloGit {
         System.out.println("主干添加");
         System.out.println("分支添加");
         System.out.println("远程库更新");
-        System.out.println("推送到码云");
-        System.out.println("取消认证");
-        System.out.println("测试码云");
+        System.out.println("码云最后测试");
     }
 }
